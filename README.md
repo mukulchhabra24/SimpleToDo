@@ -31,6 +31,16 @@ You can long press on an item to remove it
 
 <img src='https://media.giphy.com/media/1Xv1mHbt7206R8jHTH/giphy.gif' width='' alt='Video Walkthrough' />
 
+The items persist even after the application is closed and relaunched.
+We add an item and close the app
+
+<img src='https://media.giphy.com/media/0OnSnl33ZSNbs8zUvb/giphy.gif' width='' alt='Video Walkthrough' />
+We reluanch the item and the item persists in the list
+
+<img src='https://media.giphy.com/media/iwqXAqQCijHtRWqBJi/giphy.gif' width='' alt='Video Walkthrough' />
+
+
+
 
 
 ## Notes
