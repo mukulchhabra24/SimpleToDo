@@ -19,10 +19,16 @@ The following add and remove functionality is completed:
 ## GIF Walkthrough
 
 Here's a walkthrough of implemented user stories:
+When you open the application, you must click on the text editor.
 
 <img src='https://media.giphy.com/media/OsesH3kjucOATdFh0b/giphy.gif' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+After typing in the todo item, you can press "ADD" to add items to your list
+
+<img src='https://media.giphy.com/media/8HrwHVIKPfVQrjelqv/giphy.gif' width='' alt='Video Walkthrough' />
+
+
+
 
 ## Notes
 
