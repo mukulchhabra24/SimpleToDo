@@ -27,6 +27,9 @@ After typing in the todo item, you can press "ADD" to add items to your list
 
 <img src='https://media.giphy.com/media/8HrwHVIKPfVQrjelqv/giphy.gif' width='' alt='Video Walkthrough' />
 
+You can long press on an item to remove it 
+
+<img src='https://media.giphy.com/media/1Xv1mHbt7206R8jHTH/giphy.gif' width='' alt='Video Walkthrough' />
 
 
 
