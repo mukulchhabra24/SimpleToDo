@@ -46,7 +46,7 @@ We reluanch the item and the item persists in the list
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenege I faced during development was compatibilty of different versions of the software from the tutorial videos 
 
 ## License
 
